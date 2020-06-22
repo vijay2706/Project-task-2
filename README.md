@@ -1,6 +1,6 @@
 # Project-task-2
 ## X-Y Plotter:
-** Common specifications of X-Y Plotter**
+**Common specifications of X-Y Plotter**
 - The size of the plotter is approx. 500x400x130mm and it engraves an area 280x200mm.(approx.)
 - Working Accuracy is 0.01mm.
 - The chess board should be in same dimensions of plotter, since the size of ploter is fixed.
